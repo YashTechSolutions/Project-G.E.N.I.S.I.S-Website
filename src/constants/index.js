@@ -9,19 +9,19 @@ Leveraging state-of-the-art technologies such as PyTorch, TensorFlow, and variou
 `
 export const VIDEO_DATA = [
     {
-      videoId: 'Z5ypF22G5_I?si=pUUlwfgy_FpidpHh', // Replace with actual YouTube video ID
-      title: 'First Video Title',
-      description: 'Description of the first video, providing context and details.',
+      videoId: 'EOnyzJaqL78?si=XnLBaRlzImtQnSG6', // Replace with actual YouTube video ID
+      title: 'File/Folder Creation and Deletion',
+      description: 'Demonstration of G.E.N.I.S.I.S creating and deleting files and folders using voice commands.',
     },
     {
-      videoId: '8OHYynw7Yh4?si=Rk-Zd5H_1CAcgmTP',
-      title: 'Second Video Title',
-      description: 'Description of the second video, providing context and details.',
+      videoId: 'NYnE8deZ4Hg?si=7kQY7t7kR2_632M',
+      title: 'Online Information Retrieval via api',
+      description: 'Demonstration of G.E.N.I.S.I.S retrieving information from the web using voice commands.',
     },
     {
-      videoId: 'tjjqyiHczcc?si=L_7aNJx8GLlDut05',
-      title: 'Third Video Title',
-      description: 'Description of the third video, providing context and details.',
+      videoId: 'UMNmnAQI--U?si=uesxJokkXyTGnOip',
+      title: 'Github Repository Setup',
+      description: 'Demonstration of G.E.N.I.S.I.S setting up a Github repository using voice commands.',
     },
     // Add more video objects as needed
   ];
